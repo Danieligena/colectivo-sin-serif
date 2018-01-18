@@ -7,7 +7,7 @@
 
 Hecho con:
 
-*HTML5
-*CSS3 (+ Bootstrap 3)
-*JAVASCRIPT (+ JQuery)
-*Optimizado para WordPress
+* HTML5
+* CSS3 (+ Bootstrap 3)
+* JAVASCRIPT (+ JQuery)
+* Optimizado para WordPress
